@@ -1,7 +1,7 @@
 creating hello world using html
 <html>
   <head>
-  <title> HELLO WORLD </title>
+  <h1>HELLO WORLD </h1>
   </head>
   <body>
     <div class="tenth">D</div>
